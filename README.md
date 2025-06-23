@@ -38,6 +38,7 @@ I enjoy creating smart, context-aware solutions for local education systems and 
 <!-- Top Languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prof-sd1&layout=compact&theme=tokyonight)](https://github.com/prof-sd1/github-readme-stats)
 
+
 <!-- GitHub Streak -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prof-sd1&theme=tokyonight)](https://git.io/streak-stats)
 
