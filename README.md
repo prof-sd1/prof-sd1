@@ -30,12 +30,17 @@ I enjoy creating smart, context-aware solutions for local education systems and 
 
 
 ---
+## 📊 GitHub Stats
 
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prof-sd1&show_icons=true&theme=radical)
+<!-- GitHub Stats -->
+![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prof-sd1&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prof-sd1&layout=compact&theme=radical)](https://github.com/prof-sd1/github-readme-stats)
+<!-- Top Languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prof-sd1&layout=compact&theme=tokyonight)](https://github.com/prof-sd1/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prof-sd1&theme=radical)](https://git.io/streak-stats)
+<!-- GitHub Streak -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prof-sd1&theme=tokyonight)](https://git.io/streak-stats)
+
 ---
 
 ## 📬 Contact Me
