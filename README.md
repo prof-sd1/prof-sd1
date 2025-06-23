@@ -31,6 +31,12 @@ I enjoy creating smart, context-aware solutions for local education systems and 
 
 ---
 
+![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prof-sd1&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prof-sd1&layout=compact&theme=radical)](https://github.com/prof-sd1/github-readme-stats)
+
+---
+
 ## 📬 Contact Me
 
 <p align="left">
