@@ -27,3 +27,23 @@ I enjoy creating smart, context-aware solutions for local education systems and 
 - **Data Tools**: Pandas, NumPy, Seaborn, Matplotlib
 - **Frameworks**: Flask, Firebase, Streamlit, Dash
 - **Other**: Git/GitHub, Excel, REST APIs
+
+
+---
+
+## 📬 Contact Me
+
+<p align="left">
+  <a href="https://samueldagne.bio" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/samuel-dagne-230589262" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/prof_sd567" target="_blank">
+    <img alt="X (Twitter)" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:samuel.dagne39@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
