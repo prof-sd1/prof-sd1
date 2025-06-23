@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hello, I'm Samuel Dagne
 
-<!--
-**prof-sd1/prof-sd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate software developer and data analyst based in Addis Ababa, Ethiopia 🇪🇹.
 
-Here are some ideas to get you started:
+I specialize in:
+- 📊 Data Analytics (Python, Pandas, NumPy ...)
+- 🏫 Educational Technology
+- 🌐 Web and Cloud-based Apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Projects
+- Building a smart school system at **Chereka Tech**
+- Learning advanced machine learning and cloud integrations
+
+## 🔗 Connect with Me
+- 🌍 Website: [samueldagne.bio](https://samueldagne.bio)
+- 💼 LinkedIn: [Samuel Dagne](https://linkedin.com/in/samuel-dagne-230589262)
+- 🐦 Twitter: [@prof_sd567](https://x.com/prof_sd567)
