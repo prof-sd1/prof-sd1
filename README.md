@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Samuel Dagne
 
 A passionate software developer and data analyst based in Addis Ababa, Ethiopia 🇪🇹.
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 I specialize in:
 - 📊 Data Analytics (Python, Pandas, NumPy ...)
 - 🏫 Educational Technology
