@@ -5,6 +5,10 @@
 🔹 Software Developer | 📊 Data Analyst | 🎓 EdTech Builder  
 🔹 Based in Addis Ababa 🇪🇹 | Building impactful tools at **Chereka Tech**
 
+
+
+
+
 ---
 
 ## 💡 About Me
