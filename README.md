@@ -40,8 +40,7 @@ I enjoy creating smart, context-aware solutions for local education systems and 
 
 
 <!-- GitHub Streak -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prof-sd1&theme=tokyonight)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=prof-sd&theme=microsoft-dark&short_numbers=true)](https://git.io/streak-stats)
 ---
 
 ## 📬 Contact Me
