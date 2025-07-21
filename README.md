@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Samuel Dagne
 
-<img align="right" alt="Coding" width="350" src="https://magiccopy.xyz/assets/images/hadder.gif">
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 🔹 Software Developer | 📊 Data Analyst | 🎓 EdTech Builder | 
 🔹 Based in Addis Ababa 🇪🇹 | Building impactful tools at **Chereka Tech**
