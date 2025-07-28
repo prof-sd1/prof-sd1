@@ -43,6 +43,9 @@ I enjoy creating smart, context-aware solutions for local education systems and 
 
 <div style="clear: both;"></div> <!-- 💡 Clears the float -->
 
+## 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/prof-sd1/prof-sd1/blob/output/github-contribution-grid-snake.svg)
 
 
 
