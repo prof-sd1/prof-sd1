@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-🔹 **Software Developer** | 📊 **Data Analyst** | 🎓 **EdTech Innovator**  
+🔹 **Software Developer** | 📊 **Data Analyst** | 🎓 **EdTech Innovator** |  
 🔹 Based in **Addis Ababa, Ethiopia 🇪🇹**  
 🔹 Building smart, impactful tools at **Chereka Tech**
 
