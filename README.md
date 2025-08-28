@@ -1,5 +1,6 @@
 # 👋 Hi there, I'm  **Samuel Dagne** 
 
+
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 🔹 **Software Developer** | 📊 **Data Analyst** | 🎓 **EdTech Innovator** |  
