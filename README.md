@@ -12,6 +12,7 @@
 
 I'm a passionate technologist with a deep commitment to leveraging **software and data** to solve meaningful problems, especially in the African education sector.
 
+
 I specialize in:
 - 💻 **Programming:** Python, JavaScript, C++, SQL  
 - 📊 **Data Analysis & Visualization:** Pandas, NumPy, Plotly, Matplotlib  
@@ -30,6 +31,7 @@ I thrive at the intersection of **technology, education, and data**, with a focu
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samueldagne26@gmail.com)
 
 ---
+
 
 ## 💻 Tech Stack
 
