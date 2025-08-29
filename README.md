@@ -9,6 +9,8 @@
 
 ---
 
+
+
 ## 💡 About Me
 
 I'm a passionate technologist with a deep commitment to leveraging **software and data** to solve meaningful problems, especially in the African education sector.
