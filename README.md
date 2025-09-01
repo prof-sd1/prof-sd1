@@ -3,12 +3,12 @@
 <img align="right" alt="Coding" width="340" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 🔹 **Software Developer** | 📊 **Data Analyst** | 🎓 **EdTech Innovator**  
-🔹 Based in **Addis Ababa, Ethiopia 🇪🇹**  
-🔹 Currently crafting impactful solutions at **Chereka Tech**  
+🔹  Based in **Addis Ababa, Ethiopia 🇪🇹**  
+🔹  Currently crafting impactful solutions at **Chereka Tech**  
 
 ---
 
-## 💡 About Me  
+##  💡 About Me  
 
 I’m a **technologist** passionate about building tools that connect **education, data, and technology**.  
 My mission is to **empower schools and communities** through smart, practical, and scalable software solutions.  
