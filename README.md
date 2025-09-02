@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="banner.png" alt="Samuel Dagne Banner" style="max-width: 100%; height: auto;" width="850"/>
+  <img src="banner.png" alt="Samuel Dagne Banner" style="max-width: 100%; height: "200";" width="850"/>
 </p>
 
 # 👋 Hey there, I'm Samuel Dagne  
 
-<img align="right" alt="Coding" width="340" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="Coding" width="320" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 💻 **Software Developer** | 📊 **Data Analyst** | 🚀 **EdTech Innovator**  
 🌍 Based in **Addis Ababa, Ethiopia 🇪🇹**  
@@ -63,45 +63,4 @@ My mission is to **empower schools and communities** through smart, practical, a
 
 🚀 [**Chereka School System**](#) – Complete school management with analytics.  
 📘 [**EduTrack**](#) – Lightweight LMS tailored for African schools.  
-📊 [**Data Insights Dashboard**](#) – Interactive dashboards using Plotly & Python.  
-🤖 [**AI Study Helper**](#) – An AI assistant for learners.  
-
----
-
-## 📊 GitHub Performance  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prof-sd1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prof-sd1&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=prof-sd1&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
-## 🏆 Contributions & Achievements  
-
-![](https://github-contributor-stats.vercel.app/api?username=prof-sd1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-
-## ✍️ Wisdom for Developers  
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
----
-
-## 🌐 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-dagne-230589262)
-[![X](https://img.shields.io/badge/Twitter-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/prof_sd567)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/samueldagne19)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samueldagne26@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=prof-sd1&label=Profile%20Views&color=blueviolet&icon=2&pretty=true" />
-</p>
+📊 [**D**]()
