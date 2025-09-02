@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Samuel Dagne Banner" />
+  <img src="banner.png" alt="Samuel Dagne Banner" style="max-width: 100%; height: auto;" width="850"/>
 </p>
 
 # 👋 Hey there, I'm Samuel Dagne  
