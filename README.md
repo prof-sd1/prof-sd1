@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Samuel Dagne Banner" />
+</p>
+
 # 👋 Hey there, I'm Samuel Dagne  
 
 <img align="right" alt="Coding" width="340" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
