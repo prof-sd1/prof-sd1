@@ -25,7 +25,7 @@ My mission is to **empower schools and communities** through smart, practical, a
 
 ---
 
-## 🛠️ Tech Arsenal  
+ 
 
 ### **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
