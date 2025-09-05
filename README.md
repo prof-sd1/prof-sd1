@@ -100,8 +100,4 @@ My mission is to **empower schools and communities** through smart, practical, a
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/samueldagne19)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samueldagne26@gmail.com)
 
----
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=prof-sd1&label=Profile%20Views&color=blueviolet&icon=2&pretty=true" />
-</p>
