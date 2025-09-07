@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="320" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-💻 **Software Developer** | 📊 **Data Analyst** | 🚀 **EdTech Innovator**  
+💻 **Software Developer** | 📊 **Data Analyst** | 🚀 **EdTech Innovator** | **Full Stack Developer**
 🌍 Based in **Addis Ababa, Ethiopia 🇪🇹**  
 ⚡ Currently crafting impactful solutions at **Chereka Tech**  
 
