@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Samuel Dagne Banner" style="max-width: 100%; height: "100";" />
 </p>
 
-# 👋 Hey there, I'm Samuel Dagne  
+# *👋 Hey there, I'm Samuel Dagne*  
 
 <img align="right" alt="Coding" width="320" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
