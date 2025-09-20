@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="banner.png" alt="Samuel Dagne Banner" style="max-width: 100%; height: "100";" />
 </p>
