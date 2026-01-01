@@ -94,6 +94,17 @@ My mission is to **empower schools and communities** through practical, scalable
 ![](https://github-contributor-stats.vercel.app/api?username=prof-sd1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
+ 
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prof-sd1/prof-sd1/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prof-sd1/prof-sd1/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/prof-sd1/prof-sd1/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
 
 ## ✍️ Developer Wisdom  
 
