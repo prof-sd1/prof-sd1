@@ -78,10 +78,8 @@ My mission is to **empower schools and communities** through practical, scalable
 
 ## 📊 GitHub Stats & Contributions  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prof-sd1&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prof-sd1&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="48%" />
-</p>
+
+  
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=prof-sd1&theme=tokyonight" alt="GitHub Streak" width="60%" />
@@ -90,13 +88,8 @@ My mission is to **empower schools and communities** through practical, scalable
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=prof-sd1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor Stats" width="60%" />
 </p>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prof-sd1/prof-sd1/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prof-sd1/prof-sd1/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/prof-sd1/prof-sd1/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+    
+    
 </div>
 
 ---
