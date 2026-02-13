@@ -117,6 +117,22 @@
 
 
 ---
+## 📌 GitHub Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prof-sd1&theme=tokyonight" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prof-sd1&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prof-sd1&theme=tokyonight" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prof-sd1&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prof-sd1&theme=tokyonight&utcOffset=3" width="45%" />
+</p>
+---
 
 ## ✨ Developer Quote
 
