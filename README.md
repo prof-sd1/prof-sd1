@@ -108,11 +108,13 @@
 
 ---
 
-## 🐍 Snake Contribution Animation (Premium Feature)
+## 🐍 Snake Contribution Animation 
+
 
 <p align="center">
   <img src="https://github.com/prof-sd1/prof-sd1/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 
 ---
 
