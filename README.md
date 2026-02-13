@@ -1,8 +1,8 @@
-
 <h1 align="center">Hi 👋, I'm Samuel Dagne</h1>
+<h3 align="center">Software Developer • Full Stack Engineer • Data Analyst • EdTech Innovator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Software+Developer+%F0%9F%92%BB;Full+Stack+Engineer+%F0%9F%9A%80;Data+Analyst+%F0%9F%93%8A;EdTech+Innovator+%F0%9F%8F%AB;Building+Solutions+That+Matter+%F0%9F%8C%8D" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Building+Impactful+Software+Solutions+%F0%9F%9A%80;Full+Stack+Developer+%7C+Data+Analyst+%F0%9F%93%8A;EdTech+Innovator+Empowering+Communities+%F0%9F%8F%AB;Turning+Ideas+Into+Scalable+Systems+%F0%9F%94%A5" />
 </p>
 
 <p align="center">
@@ -11,24 +11,27 @@
   <img src="https://img.shields.io/github/stars/prof-sd1?label=Stars&style=for-the-badge&color=yellow" />
 </p>
 
+<p align="center">
+  🌍 Addis Ababa, Ethiopia 🇪🇹 • 🏢 Chereka Tech • ⚡ Building Tech for Education & Impact
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
 
 🎯 I’m a **Software Developer & Data Analyst** passionate about building **real-world impactful systems**.  
-🚀 I focus on **EdTech solutions**, scalable platforms, and data-driven applications.  
-🌍 Based in **Addis Ababa, Ethiopia 🇪🇹**  
-🏢 Currently building innovative products at **Chereka Tech**
+🚀 I specialize in **EdTech platforms**, scalable web apps, and data-driven solutions.  
+📊 I enjoy turning raw data into clear insights and powerful dashboards.  
 
 ---
 
-## ⚡ Quick Highlights
+## ⚡ What I Focus On
 
-- 🔥 Full Stack Developer (Frontend + Backend + Database)
+- 💻 Full Stack Development (Frontend + Backend + Database)
 - 📊 Data Analytics, Visualization & Machine Learning
-- 🏫 EdTech Systems (School Management, LMS, Digital Learning Platforms)
-- ☁️ Cloud & DevOps Tools (Docker, AWS, Azure, CI/CD)
-- 🤖 Exploring AI & automation for education and business
+- 🏫 School Systems, LMS & Digital Learning Platforms
+- ☁️ Cloud, Deployment & CI/CD Automation
+- 🤖 AI tools and smart automation for education & business
 
 ---
 
@@ -63,19 +66,19 @@
 
 ## 🚀 Featured Projects
 
-✨ Here are some of my key projects:
+✨ Some of the impactful systems I work on:
 
-- 🏫 **Chereka School System** – Full school management system with analytics & automation  
-- 📘 **EduTrack LMS** – LMS designed for African schools  
-- 📊 **Data Insights Dashboard** – Interactive analytics dashboards using Python + Plotly  
-- 🤖 **AI Study Helper** – AI assistant for students and self-learning  
+- 🏫 **Chereka School System** – Complete school management platform with analytics  
+- 📘 **EduTrack LMS** – Learning management system designed for African schools  
+- 📊 **Data Insights Dashboard** – Interactive dashboards using Python + Plotly  
+- 🤖 **AI Study Helper** – Smart assistant for student learning and productivity  
 
-📌 *Replace links below with real repo URLs when ready:*
+📌 *Add real repo links here when ready:*
 
 🔗 [Chereka School System](#)  
 🔗 [EduTrack LMS](#)  
 🔗 [Data Insights Dashboard](#)  
-🔗 [AI Study Helper](#)
+🔗 [AI Study Helper](#)  
 
 ---
 
@@ -108,16 +111,23 @@
 
 ---
 
-## 🐍 Snake Contribution Animation 
-
+## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://github.com/prof-sd1/prof-sd1/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/prof-sd1/prof-sd1/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
+---
+
+## 📊 GitHub Metrics Dashboard
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="95%" />
+</p>
 
 ---
-## 📌 GitHub Summary
+
+## 📌 GitHub Summary Cards
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prof-sd1&theme=tokyonight" width="95%" />
@@ -132,6 +142,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prof-sd1&theme=tokyonight" width="45%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prof-sd1&theme=tokyonight&utcOffset=3" width="45%" />
 </p>
+
 ---
 
 ## ✨ Developer Quote
