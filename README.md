@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Samuel Dagne</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Software+Developer+%F0%9F%92%BB;Full+Stack+Engineer+%F0%9F%9A%80;Data+Analyst+%F0%9F%93%8A;EdTech+Innovator+%F0%9F%8F%AB;Building+Solutions+That+Matter+%F0%9F%8C%8D" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%92%BB;Data+Analyst+%F0%9F%93%8A;EdTech+Innovator+%F0%9F%8F%AB;Building+Scalable+Solutions+%F0%9F%9A%80;Turning+Ideas+into+Impact+%F0%9F%8C%8D" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prof-sd1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=prof-sd1&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/prof-sd1?label=Followers&style=for-the-badge&color=blue" />
   <img src="https://img.shields.io/github/stars/prof-sd1?label=Stars&style=for-the-badge&color=yellow" />
 </p>
@@ -14,47 +14,50 @@
 
 ## 🧑‍💻 About Me
 
-🎯 I’m a **Software Developer & Data Analyst** passionate about building **real-world impactful systems**.  
-🚀 Focused on **EdTech solutions**, scalable platforms, and data-driven applications.  
-🌍 Based in **Addis Ababa, Ethiopia 🇪🇹**  
-🏢 Currently at **Chereka Tech**
+I’m a **Software Developer and Data Analyst** focused on building **scalable, real-world systems** that solve meaningful problems.
+
+- 🚀 Specializing in **Full Stack Development & Data Systems**
+- 🏫 Passionate about **EdTech and digital learning platforms**
+- 📊 Strong interest in **data-driven decision making**
+- 🌍 Based in **Addis Ababa, Ethiopia**
+- 🏢 Currently building at **Chereka Tech**
 
 ---
 
-## ⚡ Quick Highlights
+## ⚡ Core Expertise
 
-- 🔥 Full Stack Developer (Frontend + Backend + Database)  
-- 📊 Data Analytics, Visualization & Machine Learning  
-- 🏫 EdTech Systems: School Management, LMS, Digital Learning Platforms  
-- ☁️ Cloud & DevOps: Docker, AWS, Azure, CI/CD  
-- 🤖 Exploring AI & automation for education and business
+- 💻 **Full Stack Development** — Frontend, Backend, APIs, Databases  
+- 📊 **Data Analytics** — Cleaning, Visualization, Insights, ML basics  
+- 🏫 **EdTech Systems** — LMS, School Management Platforms  
+- ☁️ **Cloud & DevOps** — Docker, CI/CD, AWS, Azure  
+- 🤖 **AI Integration** — Automation & intelligent systems  
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=python,js,cpp,java,php" />
 </p>
 
 ### ⚙️ Frameworks & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,express,bootstrap" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel,bootstrap" />
 </p>
 
 ### 🗄️ Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
 </p>
 
 ### ☁️ Cloud & DevOps
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,git" />
 </p>
 
 ### 🎨 Design & Productivity
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=figma,notion,ps,ai" />
 </p>
 
@@ -62,25 +65,24 @@
 
 ## 🚀 Featured Projects
 
-- 🏫 **Chereka School System** – Complete school management with analytics & automation  
-- 📘 **EduTrack LMS** – LMS tailored for African schools  
-- 📊 **Data Insights Dashboard** – Interactive dashboards using Python + Plotly  
-- 🤖 **AI Study Helper** – AI assistant for learners  
+- 🏫 **Chereka School System**  
+  → End-to-end school management with analytics & automation  
 
-📌 *Add repo links when ready:*  
-🔗 [Chereka School System](#) | 🔗 [EduTrack LMS](#) | 🔗 [Data Insights Dashboard](#) | 🔗 [AI Study Helper](#)
+- 📘 **EduTrack LMS**  
+  → Scalable learning platform tailored for African education  
+
+- 📊 **Data Insights Dashboard**  
+  → Interactive analytics dashboards using Python & Plotly  
+
+- 🤖 **AI Study Helper**  
+  → Intelligent assistant for personalized learning  
+
+📌 *Links (update when ready):*  
+🔗 [Chereka School System](#) | 🔗 [EduTrack LMS](#) | 🔗 [Dashboard](#) | 🔗 [AI Helper](#)
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prof-sd1&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prof-sd1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -93,7 +95,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity & Contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prof-sd1&theme=tokyo-night&hide_border=true" width="95%"/>
@@ -101,36 +103,10 @@
 
 ---
 
-## 🐍 Snake Contribution Animation
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prof-sd1/prof-sd1/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-## 📌 GitHub Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prof-sd1&theme=tokyonight" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prof-sd1&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prof-sd1&theme=tokyonight" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prof-sd1&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prof-sd1&theme=tokyonight&utcOffset=3" width="45%" />
-</p>
-
----
-
-## ✨ Developer Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+  <img src="https://raw.githubusercontent.com/prof-sd1/prof-sd1/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -147,5 +123,5 @@
 ---
 
 <p align="center">
-  <b>⚡ "Code with purpose. Build with impact." ⚡</b>
+  <b>⚡ Code with purpose. Build systems that matter. ⚡</b>
 </p>
