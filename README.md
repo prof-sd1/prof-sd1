@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Samuel Dagne</h1>
+<p align="center">
+  <img src="banner.png" alt="Samuel Dagne Banner" width="100%" />
+</p>
+
+# <h1 align="center">Samuel Dagne</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%92%BB;Data+Analyst+%F0%9F%93%8A;EdTech+Innovator+%F0%9F%8F%AB;Building+Scalable+Solutions+%F0%9F%9A%80;Turning+Ideas+into+Impact+%F0%9F%8C%8D" />
@@ -66,19 +70,23 @@ I’m a **Software Developer and Data Analyst** focused on building **scalable, 
 ## 🚀 Featured Projects
 
 - 🏫 **Chereka School System**  
-  → End-to-end school management with analytics & automation  
+  *An all-in-one school management solution for analytics and automation within the Ethiopian educational landscape.*
 
 - 📘 **EduTrack LMS**  
-  → Scalable learning platform tailored for African education  
+  *A scalable, user-friendly learning management system specifically designed to bridge the digital gap in African education.*
 
 - 📊 **Data Insights Dashboard**  
-  → Interactive analytics dashboards using Python & Plotly  
+  *Responsive and interactive web dashboards built with Python and Plotly to turn raw data into actionable decision-making tools.*
 
 - 🤖 **AI Study Helper**  
-  → Intelligent assistant for personalized learning  
+  *Integrating Large Language Models to create a personalized, intelligent assistant for students and self-learners.*
 
-📌 *Links (update when ready):*  
-🔗 [Chereka School System](#) | 🔗 [EduTrack LMS](#) | 🔗 [Dashboard](#) | 🔗 [AI Helper](#)
+<p align="center">
+  <a href="#">🔗 Chereka School System</a> | 
+  <a href="#">🔗 EduTrack LMS</a> | 
+  <a href="#">🔗 Data Dashboard</a> | 
+  <a href="#">🔗 AI Helper</a>
+</p>
 
 ---
 
@@ -90,7 +98,8 @@ I’m a **Software Developer and Data Analyst** focused on building **scalable, 
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=prof-sd1&theme=tokyonight&hide_border=true" width="70%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=prof-sd1&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="github-metrics.svg" width="48%" />
 </p>
 
 ---
