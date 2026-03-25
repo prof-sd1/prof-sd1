@@ -189,6 +189,7 @@
 <p align="center">
   <b>⚡ "Code with purpose. Build with impact." ⚡</b>
 </p>
+
 ---
 
 <p align="center">
