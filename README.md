@@ -14,10 +14,12 @@
 
 ## 🧑‍💻 About Me
 
-🎯 I’m a **Software Developer & Data Analyst** passionate about building **real-world impactful systems**.  
-🚀 Focused on **EdTech solutions**, scalable platforms, and data-driven applications.  
+🎯 I’m a **Software Developer & Data Analyst** specializing in scalable software systems and data-driven solutions.  
+🚀 Currently building **EdTech platforms**, analytics systems, and automation tools that improve educational workflows.  
+🏫 Experienced in developing **School Management Systems**, **Learning Platforms**, and **Interactive Dashboards**.  
 🌍 Based in **Addis Ababa, Ethiopia 🇪🇹**  
-🏢 Currently at **Chereka Tech**
+🏢 Software Developer at **Chereka Tech**
+
 
 ---
 
@@ -31,6 +33,15 @@
 
 ---
 
+## 🔭 Currently Working On
+
+- 🏫 Enhancing **Chereka School System** with analytics & reporting modules  
+- 📘 Building **EduTrack LMS** features for course automation  
+- 🤖 Exploring **AI-powered learning assistants**  
+- ☁️ Implementing **Docker-based deployment pipelines**
+
+---
+
 ## 🛠 Tech Stack
 
 ### 💻 Languages
@@ -40,7 +51,8 @@
 
 ### ⚙️ Frameworks & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,express,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,express,bootstrap,tailwind,nextjs" />
+
 </p>
 
 ### 🗄️ Databases
@@ -50,7 +62,8 @@
 
 ### ☁️ Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,git" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,git,linux,nginx" />
+
 </p>
 
 ### 🎨 Design & Productivity
@@ -62,10 +75,22 @@
 
 ## 🚀 Featured Projects
 
-- 🏫 **Chereka School System** – Complete school management with analytics & automation  
-- 📘 **EduTrack LMS** – LMS tailored for African schools  
-- 📊 **Data Insights Dashboard** – Interactive dashboards using Python + Plotly  
-- 🤖 **AI Study Helper** – AI assistant for learners  
+- 🏫 **Chereka School System**  
+  Full-featured school management platform supporting student records, attendance, grading, and reporting.  
+  **Tech:** Laravel, MySQL, Bootstrap, Docker  
+
+- 📘 **EduTrack LMS**  
+  Learning management system designed for scalable course delivery and performance tracking.  
+  **Tech:** Node.js, React, MongoDB  
+
+- 📊 **Data Insights Dashboard**  
+  Interactive analytics dashboard for visualizing educational data and performance metrics.  
+  **Tech:** Python, Pandas, Plotly, Streamlit  
+
+- 🤖 **AI Study Helper**  
+  AI-powered assistant for answering student questions and generating learning summaries.  
+  **Tech:** Python, OpenAI API, FastAPI
+
 
 📌 *Add repo links when ready:*  
 🔗 [Chereka School System](#) | 🔗 [EduTrack LMS](#) | 🔗 [Data Insights Dashboard](#) | 🔗 [AI Study Helper](#)
@@ -75,7 +100,9 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prof-sd1&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=prof-sd1&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" 
+  />
 </p>
 
 ---
@@ -83,12 +110,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prof-sd1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prof-sd1&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=prof-sd1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
+    width="48%" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prof-sd1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+    width="48%" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=prof-sd1&theme=tokyonight&hide_border=true" width="70%" />
+  <img 
+    src="https://streak-stats.demolab.com?user=prof-sd1&theme=tokyonight&hide_border=true" 
+    width="70%" 
+  />
 </p>
 
 ---
@@ -142,10 +178,19 @@
   <a href="https://x.com/prof_sd567"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://instagram.com/samueldagne19"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:samueldagne26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://samueldagne.me">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
   <b>⚡ "Code with purpose. Build with impact." ⚡</b>
+</p>
+---
+
+<p align="center">
+  🚀 Always building. Always learning. Always improving.
 </p>
