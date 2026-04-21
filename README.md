@@ -5,21 +5,20 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prof-sd1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/prof-sd1?label=Followers&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/prof-sd1?label=Stars&style=for-the-badge&color=yellow" />
+  <img src="https://komarev.com/ghpvc/?username=prof-sd1&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/prof-sd1?label=Followers&style=flat-square&color=blue" />
+  <img src="https://img.shields.io/github/stars/prof-sd1?label=Stars&style=flat-square&color=yellow" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-🎯 I’m a **Software Developer & Data Analyst** specializing in scalable software systems and data-driven solutions.  
+🎯 I'm a **Software Developer & Data Analyst** specializing in scalable software systems and data-driven solutions.  
 🚀 Currently building **EdTech platforms**, analytics systems, and automation tools that improve educational workflows.  
 🏫 Experienced in developing **School Management Systems**, **Learning Platforms**, and **Interactive Dashboards**.  
 🌍 Based in **Addis Ababa, Ethiopia 🇪🇹**  
 🏢 Software Developer at **Chereka Tech**
-
 
 ---
 
@@ -46,13 +45,12 @@
 
 ### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,java,php" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,php" />
 </p>
 
-### ⚙️ Frameworks & Tools
+### ⚙️ Frameworks & Libraries
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,express,bootstrap,tailwind,nextjs" />
-
 </p>
 
 ### 🗄️ Databases
@@ -63,68 +61,45 @@
 ### ☁️ Cloud & DevOps
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,git,linux,nginx" />
-
 </p>
 
-### 🎨 Design & Productivity
+### 🎨 Design & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,notion,ps,ai" />
+  <img src="https://skillicons.dev/icons?i=figma,notion,ps,ai,vscode" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🏫 **Chereka School System**  
-  Full-featured school management platform supporting student records, attendance, grading, and reporting.  
-  **Tech:** Laravel, MySQL, Bootstrap, Docker  
+| Project | Description | Tech Stack |
+|---------|-------------|-------------|
+| 🏫 **Chereka School System** | Full-featured school management platform supporting student records, attendance, grading, and reporting | Laravel, MySQL, Bootstrap, Docker |
+| 📘 **EduTrack LMS** | Learning management system designed for scalable course delivery and performance tracking | Node.js, React, MongoDB |
+| 📊 **Data Insights Dashboard** | Interactive analytics dashboard for visualizing educational data and performance metrics | Python, Pandas, Plotly, Streamlit |
+| 🤖 **AI Study Helper** | AI-powered assistant for answering student questions and generating learning summaries | Python, OpenAI API, FastAPI |
 
-- 📘 **EduTrack LMS**  
-  Learning management system designed for scalable course delivery and performance tracking.  
-  **Tech:** Node.js, React, MongoDB  
+📌 *Repositories coming soon!*
 
-- 📊 **Data Insights Dashboard**  
-  Interactive analytics dashboard for visualizing educational data and performance metrics.  
-  **Tech:** Python, Pandas, Plotly, Streamlit  
+---
 
-- 🤖 **AI Study Helper**  
-  AI-powered assistant for answering student questions and generating learning summaries.  
-  **Tech:** Python, OpenAI API, FastAPI
+## 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prof-sd1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prof-sd1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=README" width="48%" />
+</p>
 
-📌 *Add repo links when ready:*  
-🔗 [Chereka School System](#) | 🔗 [EduTrack LMS](#) | 🔗 [Data Insights Dashboard](#) | 🔗 [AI Study Helper](#)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prof-sd1&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=prof-sd1&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" 
-  />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=prof-sd1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
-    width="48%" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prof-sd1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
-    width="48%" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=prof-sd1&theme=tokyonight&hide_border=true" 
-    width="70%" 
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=prof-sd1&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
 </p>
 
 ---
@@ -132,15 +107,15 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prof-sd1&theme=tokyo-night&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prof-sd1&theme=tokyo-night&hide_border=true&bg_color=0a0a0a&color=70a5fd&line=00c2ff&point=ffffff&area=true&area_color=00c2ff" width="95%"/>
 </p>
 
 ---
 
-## 🐍 Snake Contribution Animation
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prof-sd1/prof-sd1/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/prof-sd1/prof-sd1/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
@@ -163,7 +138,7 @@
 
 ---
 
-## ✨ Developer Quote
+## ✨ Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
@@ -171,27 +146,36 @@
 
 ---
 
-## 🌍 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/samuel-dagne-230589262"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/prof_sd567"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://instagram.com/samueldagne19"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:samueldagne26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://samueldagne.me">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
-
+  <a href="https://linkedin.com/in/samuel-dagne-230589262" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/prof_sd567" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/samueldagne19" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:samueldagne26@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://samueldagne.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/prof-sd1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>⚡ "Code with purpose. Build with impact." ⚡</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c2ff&height=100&section=footer" width="100%"/>
 </p>
 
----
-
 <p align="center">
+  <b>⚡ "Code with purpose. Build with impact." ⚡</b><br/>
   🚀 Always building. Always learning. Always improving.
 </p>
