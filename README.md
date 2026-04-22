@@ -149,7 +149,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/samuel-dagne-230589262" target="_blank">
+  <a href="https://linkedin.com/in/samueldagne" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/prof_sd567" target="_blank">
