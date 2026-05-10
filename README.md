@@ -1,27 +1,14 @@
 <div align="center">
 
-```
- ███████╗ █████╗ ███╗   ███╗██╗   ██╗███████╗██╗
- ██╔════╝██╔══██╗████╗ ████║██║   ██║██╔════╝██║
- ███████╗███████║██╔████╔██║██║   ██║█████╗  ██║
- ╚════██║██╔══██║██║╚██╔╝██║██║   ██║██╔══╝  ██║
- ███████║██║  ██║██║ ╚═╝ ██║╚██████╔╝███████╗███████╗
- ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚══════╝
- ██████╗  █████╗  ██████╗ ███╗   ██╗███████╗
- ██╔══██╗██╔══██╗██╔════╝ ████╗  ██║██╔════╝
- ██║  ██║███████║██║  ███╗██╔██╗ ██║█████╗
- ██║  ██║██╔══██║██║   ██║██║╚██╗██║██╔══╝
- ██████╔╝██║  ██║╚██████╔╝██║ ╚████║███████╗
- ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Samuel%20Dagne&fontSize=58&fontColor=e8d5b7&fontAlignY=45&desc=Software%20Developer%20%C2%B7%20Full%20Stack%20%C2%B7%20Data%20%C2%B7%20EdTech&descSize=15&descColor=a08060&descAlignY=68&animation=twinkling" width="100%" />
 
-**`SOFTWARE DEVELOPER`** &nbsp;&nbsp;·&nbsp;&nbsp; **`FULL STACK ENGINEER`** &nbsp;&nbsp;·&nbsp;&nbsp; **`DATA ANALYST`**
-
-*Chereka Tech &nbsp;·&nbsp; Addis Ababa, Ethiopia 🇪🇹*
+</div>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3500&pause=1200&color=888888&center=true&vCenter=true&width=700&lines=Building+EdTech+platforms+that+scale+%F0%9F%9A%80;Full+Stack+%7C+Cloud+%7C+Data+%7C+AI;Open+to+impactful+collaborations+%F0%9F%8C%8D)](https://git.io/typing-svg)
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=20&duration=4000&pause=2000&color=D4A853&center=true&vCenter=true&width=700&lines=Building+the+future+of+education%2C+one+commit+at+a+time.;Full+Stack+Engineer+%C2%B7+Chereka+Tech+%C2%B7+Addis+Ababa+%F0%9F%87%AA%F0%9F%87%B9)
 
 </div>
 
@@ -31,35 +18,68 @@
 
 <br/>
 
-<table width="100%">
+<img align="right" width="310" src="https://github-readme-stats.vercel.app/api?username=prof-sd1&show_icons=true&theme=ambient_gradient&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile&bg_color=1a1a2e&title_color=d4a853&icon_color=1d9e75&text_color=a08060&ring_color=d4a853" />
+
+### `01` &nbsp; Who I Am
+
+I'm a **Software Developer & Data Analyst** at [Chereka Tech](https://cherekatch.com),
+building scalable EdTech platforms that serve thousands of students
+across Ethiopia and beyond.
+
+My work sits at the intersection of engineering, data, and education —
+crafting systems that genuinely improve how institutions operate
+and how students learn.
+
+📍 **Addis Ababa, Ethiopia**
+📬 **samueldagne26@gmail.com**
+🌐 **[samueldagne.me](https://samueldagne.me)**
+
+<br clear="right"/>
+
+---
+
+<br/>
+
+### `02` &nbsp; What I'm Building
+
+<table>
 <tr>
-<td width="58%" valign="top">
+<td>
 
-## About
-
-I design and build scalable software and data-driven systems, focused on transforming education through technology. My work spans full-stack engineering, cloud infrastructure, and analytics — from school management platforms serving thousands, to AI-powered learning tools.
-
-**Currently shipping:**
-- Chereka School System → analytics & reporting modules
-- EduTrack LMS → course automation pipeline
-- AI Learning Assistants → personalized student support
-- Docker Pipelines → containerized deployment infra
+**🏫 Chereka School System** &nbsp; `● Live`
+> Full-featured school management — records, attendance,
+> grading, and analytics for institutions at scale.
+>
+> `Laravel` `MySQL` `Bootstrap` `Docker`
 
 </td>
-<td width="42%" valign="top">
+<td>
 
-## Quick Info
+**📘 EduTrack LMS** &nbsp; `◐ Active`
+> Scalable course delivery and performance tracking
+> system built for the modern classroom.
+>
+> `Node.js` `React` `MongoDB`
 
-```yaml
-name     : Samuel Dagne
-role     : Software Developer
-company  : Chereka Tech
-location : Addis Ababa, ET 🇪🇹
-email    : samueldagne26@gmail.com
-web      : samueldagne.me
-focus    : EdTech · Analytics · AI
-status   : Open to collaborate
-```
+</td>
+</tr>
+<tr>
+<td>
+
+**📊 Data Insights Dashboard** &nbsp; `● Deployed`
+> Interactive analytics for visualizing institutional
+> KPIs and educational performance metrics.
+>
+> `Python` `Pandas` `Plotly` `Streamlit`
+
+</td>
+<td>
+
+**🤖 AI Study Helper** &nbsp; `◑ Beta`
+> AI-powered assistant generating personalized answers
+> and learning summaries for students.
+>
+> `Python` `OpenAI API` `FastAPI`
 
 </td>
 </tr>
@@ -71,143 +91,58 @@ status   : Open to collaborate
 
 <br/>
 
-## Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-111?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-111?style=flat-square&logo=typescript&logoColor=3178C6)
-![PHP](https://img.shields.io/badge/PHP-111?style=flat-square&logo=php&logoColor=8892BF)
-![Java](https://img.shields.io/badge/Java-111?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-111?style=flat-square&logo=cplusplus&logoColor=00599C)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-111?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-111?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Laravel](https://img.shields.io/badge/Laravel-111?style=flat-square&logo=laravel&logoColor=FF2D20)
-![Express](https://img.shields.io/badge/Express-111?style=flat-square&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-111?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-![FastAPI](https://img.shields.io/badge/FastAPI-111?style=flat-square&logo=fastapi&logoColor=009688)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-111?style=flat-square&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=flat-square&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-111?style=flat-square&logo=mongodb&logoColor=47A248)
-![SQLite](https://img.shields.io/badge/SQLite-111?style=flat-square&logo=sqlite&logoColor=003B57)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-111?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-111?style=flat-square&logo=microsoftazure&logoColor=0078D4)
-![Docker](https://img.shields.io/badge/Docker-111?style=flat-square&logo=docker&logoColor=2496ED)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111?style=flat-square&logo=linux&logoColor=FCC624)
-![Nginx](https://img.shields.io/badge/Nginx-111?style=flat-square&logo=nginx&logoColor=009639)
-
-**Design & Tools**
-
-![Figma](https://img.shields.io/badge/Figma-111?style=flat-square&logo=figma&logoColor=F24E1E)
-![VS Code](https://img.shields.io/badge/VS_Code-111?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-![Notion](https://img.shields.io/badge/Notion-111?style=flat-square&logo=notion&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-111?style=flat-square&logo=adobephotoshop&logoColor=31A8FF)
-![Illustrator](https://img.shields.io/badge/Illustrator-111?style=flat-square&logo=adobeillustrator&logoColor=FF9A00)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## Featured Projects
+### `03` &nbsp; Technology
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🏫 Chereka School System
-Full-featured school management platform — student records, attendance, grading, analytics, and reporting at scale.
-
-![Laravel](https://img.shields.io/badge/-Laravel-111?style=flat-square&logo=laravel&logoColor=FF2D20)
-![MySQL](https://img.shields.io/badge/-MySQL-111?style=flat-square&logo=mysql&logoColor=4479A1)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-111?style=flat-square&logo=bootstrap&logoColor=7952B3)
-![Docker](https://img.shields.io/badge/-Docker-111?style=flat-square&logo=docker&logoColor=2496ED)
-
-**`⬤ Production`**
-
-</td>
-<td width="50%" valign="top">
-
-### 📘 EduTrack LMS
-Scalable learning management system for automated course delivery and student performance tracking across institutions.
-
-![Node.js](https://img.shields.io/badge/-Node.js-111?style=flat-square&logo=nodedotjs&logoColor=339933)
-![React](https://img.shields.io/badge/-React-111?style=flat-square&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/-MongoDB-111?style=flat-square&logo=mongodb&logoColor=47A248)
-
-**`◐ Active Development`**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Data Insights Dashboard
-Interactive analytics platform for visualizing educational KPIs and institutional performance metrics in real time.
-
-![Python](https://img.shields.io/badge/-Python-111?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-111?style=flat-square&logo=pandas&logoColor=150458)
-![Plotly](https://img.shields.io/badge/-Plotly-111?style=flat-square&logo=plotly&logoColor=3F4F75)
-![Streamlit](https://img.shields.io/badge/-Streamlit-111?style=flat-square&logo=streamlit&logoColor=FF4B4B)
-
-**`⬤ Deployed`**
+**Core Languages**
+```
+Python       ████████████████████  Expert
+JavaScript   ████████████████░░░░  Advanced
+TypeScript   ██████████████░░░░░░  Advanced
+PHP          ████████████░░░░░░░░  Proficient
+Java         ██████████░░░░░░░░░░  Proficient
+C++          ████████░░░░░░░░░░░░  Familiar
+```
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI Study Helper
-AI-powered assistant for answering student questions and generating personalized learning summaries on demand.
+**Frameworks & Infra**
 
-![Python](https://img.shields.io/badge/-Python-111?style=flat-square&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI_API-111?style=flat-square&logo=openai&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-111?style=flat-square&logo=fastapi&logoColor=009688)
-
-**`◑ Beta`**
+| Frontend | Backend | Cloud |
+|----------|---------|-------|
+| React | Node.js | AWS |
+| Next.js | Laravel | Azure |
+| Tailwind | Express | Docker |
+| Bootstrap | FastAPI | Nginx |
 
 </td>
 </tr>
 </table>
 
-> 📌 Repositories being prepared — watch this space.
-
-<br/>
-
----
-
-<br/>
-
-## GitHub Analytics
-
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=prof-sd1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=00000000&title_color=cccccc&icon_color=888888&text_color=888888" />
-&nbsp;&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prof-sd1&layout=compact&theme=github_dark&hide_border=true&langs_count=7&bg_color=00000000&title_color=cccccc&text_color=888888" />
-
-<br/><br/>
-
-<img width="62%" src="https://streak-stats.demolab.com?user=prof-sd1&theme=github-dark-blue&hide_border=true&background=00000000&ring=cccccc&fire=cccccc&currStreakLabel=888888&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=cccccc" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=prof-sd1&theme=github-compact&hide_border=true&bg_color=00000000&color=666666&line=cccccc&point=ffffff&area=true&area_color=333333" />
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=d4a853)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=d4a853)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=flat-square&logo=typescript&logoColor=1d9e75)
+![PHP](https://img.shields.io/badge/PHP-1a1a2e?style=flat-square&logo=php&logoColor=a08060)
+![Java](https://img.shields.io/badge/Java-1a1a2e?style=flat-square&logo=openjdk&logoColor=d4a853)
+![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=1d9e75)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=flat-square&logo=nextdotjs&logoColor=e8d5b7)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=flat-square&logo=nodedotjs&logoColor=1d9e75)
+![Laravel](https://img.shields.io/badge/Laravel-1a1a2e?style=flat-square&logo=laravel&logoColor=d4a853)
+![Tailwind](https://img.shields.io/badge/Tailwind-1a1a2e?style=flat-square&logo=tailwindcss&logoColor=1d9e75)
+![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=1d9e75)
+![AWS](https://img.shields.io/badge/AWS-1a1a2e?style=flat-square&logo=amazonwebservices&logoColor=d4a853)
+![Azure](https://img.shields.io/badge/Azure-1a1a2e?style=flat-square&logo=microsoftazure&logoColor=a08060)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=flat-square&logo=mysql&logoColor=d4a853)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=a08060)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=flat-square&logo=mongodb&logoColor=1d9e75)
+![Python](https://img.shields.io/badge/Pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=e8d5b7)
+![Figma](https://img.shields.io/badge/Figma-1a1a2e?style=flat-square&logo=figma&logoColor=d4a853)
 
 </div>
 
@@ -217,70 +152,17 @@ AI-powered assistant for answering student questions and generating personalized
 
 <br/>
 
-## Profile Summary
+### `04` &nbsp; GitHub Activity
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prof-sd1&theme=github_dark" />
-
-<br/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prof-sd1&theme=github_dark" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prof-sd1&theme=github_dark" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prof-sd1&theme=github_dark&utcOffset=3" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prof-sd1&theme=onedark&no-frame=true&row=1&column=7&margin-w=8" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/prof-sd1/prof-sd1/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## Let's Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://samueldagne.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/samueldagne)
-[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:samueldagne26@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prof-sd1)
-[![X](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/prof_sd567)
-[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/samueldagne19)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=prof-sd1&label=profile+views&color=111111&style=flat-square)
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prof-sd1&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=7&bg_color=1a1a2e&title_color=d4a853&text_color=a08060" />
 &nbsp;
-![Followers](https://img.shields.io/github/followers/prof-sd1?label=followers&style=flat-square&color=111111&logo=github&logoColor=white)
+<img width="48%" src="https://streak-stats.demolab.com?user=prof-sd1&theme=ambient-gradient&hide_border=true&background=1a1a2e&ring=d4a853&fire=d4a853&currStreakLabel=a08060&sideLabels=a08060&dates=60504a&currStreakNum=e8d5b7&sideNums=e8d5b7" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=prof-sd1&theme=github-compact&hide_border=true&bg_color=1a1a2e&color=a08060&line=d4a853&point=1d9e75&area=true&area_color=d4a85330" />
 
 </div>
 
@@ -290,6 +172,64 @@ AI-powered assistant for answering student questions and generating personalized
 
 <br/>
 
+### `05` &nbsp; Recognition
+
 <div align="center">
-<sub>Samuel Dagne &nbsp;·&nbsp; Software Developer &nbsp;·&nbsp; Addis Ababa, Ethiopia &nbsp;·&nbsp; <i>Always building. Always improving.</i></sub>
+
+<img src="https://github-profile-trophy.vercel.app/?username=prof-sd1&theme=onedark&no-frame=true&row=1&column=7&margin-w=8&title_color=d4a853" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+### `06` &nbsp; Contribution Trail
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prof-sd1&theme=github_dark" width="95%"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/prof-sd1/prof-sd1/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+### `07` &nbsp; Let's Work Together
+
+<div align="center">
+
+> *"The best software solves a real problem for a real person.*
+> *Everything else is just clever code."*
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐%20samueldagne.me-1a1a2e?style=for-the-badge&logoColor=d4a853)](https://samueldagne.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=d4a853)](https://linkedin.com/in/samueldagne)
+[![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=1d9e75)](mailto:samueldagne26@gmail.com)
+[![GitHub](https://img.shields.io/badge/@prof--sd1-1a1a2e?style=for-the-badge&logo=github&logoColor=e8d5b7)](https://github.com/prof-sd1)
+[![X](https://img.shields.io/badge/X-1a1a2e?style=for-the-badge&logo=x&logoColor=a08060)](https://twitter.com/prof_sd567)
+[![Instagram](https://img.shields.io/badge/Instagram-1a1a2e?style=for-the-badge&logo=instagram&logoColor=d4a853)](https://instagram.com/samueldagne19)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=prof-sd1&label=profile+views&color=1a1a2e&style=flat-square)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/prof-sd1?label=followers&style=flat-square&color=1a1a2e&logo=github&logoColor=d4a853)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f3460,50:16213e,100:1a1a2e&height=80&section=footer&text=Always%20building.%20Always%20improving.&fontSize=16&fontColor=a08060&fontAlignY=55" width="100%"/>
 </div>
