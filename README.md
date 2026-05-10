@@ -1,181 +1,203 @@
-<h1 align="center">Hi 👋, I'm Samuel Dagne</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Software+Developer+%F0%9F%92%BB;Full+Stack+Engineer+%F0%9F%9A%80;Data+Analyst+%F0%9F%93%8A;EdTech+Innovator+%F0%9F%8F%AB;Building+Solutions+That+Matter+%F0%9F%8C%8D" />
-</p>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1117,100:161b22&height=200&section=header&text=Samuel%20Dagne&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%80%A2%20Data%20Analyst&descAlignY=58&descSize=16&descColor=8b949e&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prof-sd1&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/prof-sd1?label=Followers&style=flat-square&color=blue" />
-  <img src="https://img.shields.io/github/stars/prof-sd1?label=Stars&style=flat-square&color=yellow" />
-</p>
+</div>
 
----
+<div align="center">
 
-## 🧑‍💻 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+EdTech+platforms+that+scale+%F0%9F%9A%80;Full+Stack+%7C+Cloud+%7C+Data+%7C+AI;Software+Developer+%40+Chereka+Tech+%F0%9F%87%AA%F0%9F%87%B9;Addis+Ababa%2C+Ethiopia+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
-🎯 I'm a **Software Developer & Data Analyst** specializing in scalable software systems and data-driven solutions.  
-🚀 Currently building **EdTech platforms**, analytics systems, and automation tools that improve educational workflows.  
-🏫 Experienced in developing **School Management Systems**, **Learning Platforms**, and **Interactive Dashboards**.  
-🌍 Based in **Addis Ababa, Ethiopia 🇪🇹**  
-🏢 Software Developer at **Chereka Tech**
+</div>
 
 ---
 
-## ⚡ Quick Highlights
+## `$ whoami`
 
-- 🔥 Full Stack Developer (Frontend + Backend + Database)  
-- 📊 Data Analytics, Visualization & Machine Learning  
-- 🏫 EdTech Systems: School Management, LMS, Digital Learning Platforms  
-- ☁️ Cloud & DevOps: Docker, AWS, Azure, CI/CD  
-- 🤖 Exploring AI & automation for education and business
+```yaml
+name       : Samuel Dagne
+role       : Software Developer & Data Analyst
+company    : Chereka Tech
+location   : Addis Ababa, Ethiopia 🇪🇹
+focus      : EdTech Platforms · Analytics Systems · Automation Tools
+contact    : samueldagne26@gmail.com
+portfolio  : https://samueldagne.me
+status     : Open to impactful collaborations
+```
 
----
-
-## 🔭 Currently Working On
-
-- 🏫 Enhancing **Chereka School System** with analytics & reporting modules  
-- 📘 Building **EduTrack LMS** features for course automation  
-- 🤖 Exploring **AI-powered learning assistants**  
-- ☁️ Implementing **Docker-based deployment pipelines**
+> *"Code with purpose. Build with impact."*
 
 ---
 
-## 🛠 Tech Stack
+## `$ cat active_projects.md`
 
-### 💻 Languages
+```
+ [IN PROGRESS]  Chereka School System  →  Analytics & reporting modules
+ [IN PROGRESS]  EduTrack LMS           →  Course automation features
+ [EXPLORING]    AI Learning Assistants →  Personalized student support
+ [DEPLOYING]    Docker Pipelines       →  Containerized delivery infra
+```
+
+---
+
+## `$ ls -la skills/`
+
+### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,php" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,php,cpp&perline=6" />
 </p>
 
-### ⚙️ Frameworks & Libraries
+### Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,express,bootstrap,tailwind,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,tailwind,bootstrap&perline=7" />
 </p>
 
-### 🗄️ Databases
+### Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&perline=4" />
 </p>
 
-### ☁️ Cloud & DevOps
+### Cloud, DevOps & Tooling
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,git,linux,nginx" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,git,linux,nginx&perline=7" />
 </p>
 
-### 🎨 Design & Tools
+### Design & Productivity
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,notion,ps,ai,vscode" />
+  <img src="https://skillicons.dev/icons?i=figma,vscode,notion,ps,ai&perline=5" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## `$ cat projects/featured.json`
 
-| Project | Description | Tech Stack |
-|---------|-------------|-------------|
-| 🏫 **Chereka School System** | Full-featured school management platform supporting student records, attendance, grading, and reporting | Laravel, MySQL, Bootstrap, Docker |
-| 📘 **EduTrack LMS** | Learning management system designed for scalable course delivery and performance tracking | Node.js, React, MongoDB |
-| 📊 **Data Insights Dashboard** | Interactive analytics dashboard for visualizing educational data and performance metrics | Python, Pandas, Plotly, Streamlit |
-| 🤖 **AI Study Helper** | AI-powered assistant for answering student questions and generating learning summaries | Python, OpenAI API, FastAPI |
+```json
+[
+  {
+    "name": "Chereka School System",
+    "icon": "🏫",
+    "description": "Full-featured school management platform — student records,
+                    attendance, grading, and reporting at scale.",
+    "stack": ["Laravel", "MySQL", "Bootstrap", "Docker"],
+    "status": "Production"
+  },
+  {
+    "name": "EduTrack LMS",
+    "icon": "📘",
+    "description": "Scalable learning management system for course delivery
+                    and student performance tracking.",
+    "stack": ["Node.js", "React", "MongoDB"],
+    "status": "Active Development"
+  },
+  {
+    "name": "Data Insights Dashboard",
+    "icon": "📊",
+    "description": "Interactive analytics dashboard for visualizing educational
+                    data and institutional performance metrics.",
+    "stack": ["Python", "Pandas", "Plotly", "Streamlit"],
+    "status": "Deployed"
+  },
+  {
+    "name": "AI Study Helper",
+    "icon": "🤖",
+    "description": "AI-powered assistant for answering student questions
+                    and generating personalized learning summaries.",
+    "stack": ["Python", "OpenAI API", "FastAPI"],
+    "status": "Beta"
+  }
+]
+```
 
-📌 *Repositories coming soon!*
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prof-sd1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prof-sd1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=README" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=prof-sd1&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prof-sd1&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prof-sd1&theme=tokyo-night&hide_border=true&bg_color=0a0a0a&color=70a5fd&line=00c2ff&point=ffffff&area=true&area_color=00c2ff" width="95%"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prof-sd1/prof-sd1/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+> 📌 *Repositories being prepared — watch this space.*
 
 ---
 
-## 📌 GitHub Summary
+## `$ git log --stat`
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prof-sd1&theme=tokyonight" width="95%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prof-sd1&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prof-sd1&theme=tokyonight" width="45%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=prof-sd1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=10" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prof-sd1&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=10" width="48%" />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prof-sd1&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prof-sd1&theme=tokyonight&utcOffset=3" width="45%" />
-</p>
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=prof-sd1&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&ring=58a6ff&fire=ff7b54&currStreakLabel=8b949e" width="65%" />
+
+</div>
 
 ---
 
-## ✨ Dev Quote
+## `$ cat contribution_graph.svg`
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prof-sd1&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" width="95%"/>
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/samueldagne" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/prof_sd567" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/samueldagne19" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:samueldagne26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://samueldagne.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://github.com/prof-sd1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c2ff&height=100&section=footer" width="100%"/>
-</p>
+## `$ curl https://github-profile-summary-cards/prof-sd1`
 
-<p align="center">
-  <b>⚡ "Code with purpose. Build with impact." ⚡</b><br/>
-  🚀 Always building. Always learning. Always improving.
-</p>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prof-sd1&theme=github_dark" width="95%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prof-sd1&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prof-sd1&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prof-sd1&theme=github_dark&utcOffset=3" width="32%" />
+
+</div>
+
+---
+
+## `$ cat trophies.txt`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=prof-sd1&theme=onedark&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" width="96%" />
+
+</div>
+
+---
+
+## `$ ./snake_animation.sh`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/prof-sd1/prof-sd1/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+
+</div>
+
+---
+
+## `$ open --social`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117)](https://linkedin.com/in/samueldagne)
+[![X / Twitter](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=0d1117)](https://twitter.com/prof_sd567)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=e4405f&labelColor=0d1117)](https://instagram.com/samueldagne19)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335&labelColor=0d1117)](mailto:samueldagne26@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=0d1117)](https://samueldagne.me)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117)](https://github.com/prof-sd1)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=prof-sd1&label=Profile+Views&color=0d1117&style=flat-square&labelColor=161b22)
+![Followers](https://img.shields.io/github/followers/prof-sd1?label=Followers&style=flat-square&color=0d1117&labelColor=161b22&logo=github&logoColor=58a6ff)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0a0a0a&height=100&section=footer" width="100%"/>
+
+<sub>Always building. Always learning. Always improving.</sub>
+
+</div>
