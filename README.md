@@ -29,7 +29,6 @@ status     : Open to impactful collaborations
 > *"Code with purpose. Build with impact."*
 
 ---
----
 
 ## `$ ls certificates/`
 
