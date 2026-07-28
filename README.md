@@ -29,7 +29,27 @@ status     : Open to impactful collaborations
 > *"Code with purpose. Build with impact."*
 
 ---
+---
 
+## `$ ls certificates/`
+
+<div align="center">
+
+### 🐧 Boot.dev — Learn Linux Certificate
+
+<a href="https://www.boot.dev/certificates/c8f407c7-3c4b-4e1d-bc0d-d7a61b866510">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/c8f407c7-3c4b-4e1d-bc0d-d7a61b866510.jpeg?v=1785281891"
+       width="500"
+       alt="Boot.dev Learn Linux Certificate"/>
+</a>
+
+<br/>
+
+**Completed:** Learn Linux  
+**Platform:** Boot.dev  
+**Skills:** Linux Fundamentals · Command Line · Terminal Usage · System Basics
+
+</div>
 ## `$ cat active_projects.md`
 
 ```
