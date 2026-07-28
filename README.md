@@ -49,7 +49,9 @@ status     : Open to impactful collaborations
 **Skills:** Linux Fundamentals · Command Line · Terminal Usage · System Basics
 
 </div>
+
 ---
+
 ## `$ cat active_projects.md`
 
 ```
