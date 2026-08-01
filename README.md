@@ -163,9 +163,6 @@ status     : Open to impactful collaborations
 
 </div>
 
-<p align="center">
-  <img src="https://api.boot.dev/v1/users/public/4f1f493a-0adb-45b3-aee6-3f67fbce1561/thumbnail" >
-</p>
 
 ---
 
