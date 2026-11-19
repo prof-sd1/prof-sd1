@@ -78,32 +78,28 @@ status     : Open to impactful collaborations
   {
     "name": "Chereka School System",
     "icon": "🏫",
-    "description": "Full-featured school management platform — student records,
-                    attendance, grading, and reporting at scale.",
+    "description": "Full-featured school management platform for student records, attendance, grading, and reporting at scale.",
     "stack": ["Laravel", "MySQL", "Bootstrap", "Docker"],
     "status": "Production"
   },
   {
     "name": "EduTrack LMS",
     "icon": "📘",
-    "description": "Scalable learning management system for course delivery
-                    and student performance tracking.",
+    "description": "Scalable learning management system for course delivery and student performance tracking.",
     "stack": ["Node.js", "React", "MongoDB"],
     "status": "Active Development"
   },
   {
     "name": "Data Insights Dashboard",
     "icon": "📊",
-    "description": "Interactive analytics dashboard for visualizing educational
-                    data and institutional performance metrics.",
+    "description": "Interactive analytics dashboard for visualizing educational data and institutional performance metrics.",
     "stack": ["Python", "Pandas", "Plotly", "Streamlit"],
     "status": "Deployed"
   },
   {
     "name": "AI Study Helper",
     "icon": "🤖",
-    "description": "AI-powered assistant for answering student questions
-                    and generating personalized learning summaries.",
+    "description": "AI-powered assistant for answering student questions and generating personalized learning summaries.",
     "stack": ["Python", "OpenAI API", "FastAPI"],
     "status": "Beta"
   }
