@@ -4,6 +4,13 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+concurrency:
+  group: generate-metrics
+  cancel-in-progress: true
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -13,6 +20,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: prof-sd1
+          filename: github-metrics.svg
           template: classic
           base: header, activity, community, repositories
           config_timezone: Africa/Addis_Ababa
